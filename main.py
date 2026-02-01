@@ -1,0 +1,5 @@
+print("Hello World!")
+print("I am Learning Python")
+print("Day 1 Completed")
+print(10)
+print("Python is awsome")
